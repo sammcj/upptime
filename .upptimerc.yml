@@ -15,8 +15,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** uptime monitoring"
-  introMessage: Uptime Monitoring by Upptime
+  introTitle: "**smcleod.net** uptime monitoring"
+  introMessage: Monitoring by Upptime
   navbar:
     - title: Status
       href: /
